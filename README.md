@@ -1,5 +1,6 @@
 # Implementation-of-the-Gaussian-Regression-SemiPar-Dataset
 
+## Repository Tour 
 - [Basic Algorithm.R](https://github.com/Azkaaaaaam/Implementation-of-the-Gaussian-Regression-SemiPar-Dataset/blob/7a6987f4382f4ae789c9eebdf23caea98dfb3e08/Basic.R) : As the main goal of the project is to work on the optimization of the gaussian regression, we started by developing a first basic code, that will later get enriched.
 → The “basic algorithm” took random parameters, and the covariance function was also randomly chosen ( Matern 3/2).
 
